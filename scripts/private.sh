@@ -25,6 +25,6 @@ save_dir
 
 cd "$root_dir"
 
-git clone git@github.com:mathieu-bergeron/private.codelescartes.ca  private
+git clone git@github.com:mathieu-bergeron/prive.codelescartes.ca  prive
 
 restore_dir
