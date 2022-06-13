@@ -40,14 +40,6 @@ git clone git@github.com:mathieu-bergeron/misc.ntro.ca        data/misc
 git clone git@github.com:mathieu-bergeron/static.codelescartes.ca static_ntro.ca
 git clone git@github.com:mathieu-bergeron/static.ntro.ca          static_codelescartes.ca
 
-## PRIVATE
-
-# private data
-git clone git@github.com:mathieu-bergeron/examens.ntro.ca     data/examens
-
-# private documents and notes
-git clone git@github.com:mathieu-bergeron/private.codelescartes.ca private
-
 
 
 restore_dir

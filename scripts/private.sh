@@ -25,9 +25,6 @@ save_dir
 
 cd "$root_dir"
 
-mkdir data
-git clone git@github.com:mathieu-bergeron/examens.ntro.ca           data/examens
-
 git clone git@github.com:mathieu-bergeron/private.codelescartes.ca  private
 
 restore_dir
