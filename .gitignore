@@ -1,0 +1,15 @@
+.hugo_build.lock 
+
+/public
+
+*.mkv
+
+/resources
+
+/themes/hugo-book
+
+/private
+
+/static_codelescartes.ca
+
+/static_ntro.ca
