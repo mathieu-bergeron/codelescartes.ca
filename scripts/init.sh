@@ -26,19 +26,19 @@ save_dir
 cd "$root_dir"
 
 mkdir themes
-git clone git@github.com:mathieu-bergeron/hugo-book              themes/hugo-book
+git clone git@github.com:mathieu-bergeron/hugo-book               themes/hugo-book
 
 mkdir data
 
 ## public data
-git clone git@github.com:mathieu-bergeron/theorie.ntro.ca     data/theorie
-git clone git@github.com:mathieu-bergeron/tutoriels.ntro.ca   data/tutoriels
-git clone git@github.com:mathieu-bergeron/ateliers.ntro.ca    data/ateliers
-git clone git@github.com:mathieu-bergeron/misc.ntro.ca        data/misc
+git clone git@github.com:mathieu-bergeron/theorie.ntro.ca         data/theorie
+git clone git@github.com:mathieu-bergeron/tutoriels.ntro.ca       data/tutoriels
+git clone git@github.com:mathieu-bergeron/ateliers.ntro.ca        data/ateliers
+git clone git@github.com:mathieu-bergeron/misc.ntro.ca            data/misc
 
 # public static files
-git clone git@github.com:mathieu-bergeron/static.codelescartes.ca static_ntro.ca
-git clone git@github.com:mathieu-bergeron/static.ntro.ca          static_codelescartes.ca
+git clone git@github.com:mathieu-bergeron/static.codelescartes.ca static_codelescartes.ca
+git clone git@github.com:mathieu-bergeron/static.ntro.ca          static_ntro.ca
 
 
 
