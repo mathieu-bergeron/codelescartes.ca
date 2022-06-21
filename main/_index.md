@@ -115,4 +115,7 @@ Avec la solution (étape 22):
     * map par arbre binaire
 
 
+Voir <a href="https://ntro.ca/cours/3c6">la page du cours 3C6</a>
+
+
 
