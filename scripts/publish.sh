@@ -30,7 +30,7 @@ rm -rf public
 hugo
 
 # remove .git from public
-rm -r public/.git
+rm -fr public/.git
 
 # rsync to server
 rsync -r --delete public/* codelescartes.ca:~/codelescartes.ca/
