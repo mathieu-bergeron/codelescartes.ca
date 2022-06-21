@@ -46,6 +46,10 @@ De gauche à droite:
 <img width="75%" src="/bilan2022/interface01.png" />
 </center>
 
+NOTES:
+
+* Des améliorations à l'interface sont à venir (projet de Zein Hazimeh)
+
 #### Validation interactive du code
 
 Comparaison du code étudiant (erreur à l'étape 22):
