@@ -89,11 +89,23 @@ Avec la solution (étape 22):
        loop="true" />
 </center>
 
+
 #### Animation de l'opération de retrait dans une liste tableau
 
 <center>
 <video width="50%" 
        src="/bilan2022/arraylist_remove.mp4" 
+       type="video/mp4" 
+       controls="false"
+       autoplay="true"
+       loop="true" />
+</center>
+
+#### Choix entre différents exemples
+
+<center>
+<video width="50%" 
+       src="/bilan2022/choisir_cas.mp4" 
        type="video/mp4" 
        controls="false"
        autoplay="true"
