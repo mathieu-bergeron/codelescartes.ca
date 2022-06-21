@@ -35,6 +35,7 @@ De gauche à droite:
 </center>
 
 * Crédit photo: Marlond Augustin
+* Les participants ont signé un formulaire de consentement concernant la reproduction des trois photos ci-haut.
 
 
 ### Fonctionalités implantées
